@@ -124,9 +124,19 @@ border: rgba(255, 255, 255, .3) 2px solid;
 	position: relative;
 	width: 20%;
 	height: 50%;
-	
-	left: : 45%;
+	float: right;
+	bottom: 170px;
+	margin-right: 20px;
 }
+.header_photo_4 {
+	position: relative;
+	width: 20%;
+	height: 50%;
+	float: right;
+	bottom: -105px;
+	margin-right: -190px;
+}
+
 footer {
 	background-image: url(../img/top_mnu_2.png);
 	width: 100%;
